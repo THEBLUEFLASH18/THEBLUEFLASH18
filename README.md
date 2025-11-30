@@ -1,7 +1,6 @@
 <div align="center">
   <img src="assets/blue-matrix.gif" width="100%" />
   <br>
-  <img src="assets/nano-banana.png" width="150" />
   <h1>⚡ SYSTEM ONLINE: MARCOS GALDAMEZ ⚡</h1>
   <h3>[ Information Science Operative | Code Architect | Research Unit ]</h3>
 </div>
@@ -32,18 +31,9 @@
 </div>
 
 ## 💾 DEPLOYED SYSTEMS (Projects)
-
-### 🔹 **Chrome Extension – Productivity Tools**
-> Lightweight tools to help organize online research and improve focus during browsing.
-
-### 🔹 **Brightview**
-> A project focused on improving accessibility and user-centered design—built with principles from HCI and information architecture.
-
-### 🔹 **Enterprise Solutions (1 & 2)**
-> Hands-on systems applying database logic, front‑end structures, and real information workflows.
-
-### 🔹 **Firebase Apps**
-> Apps exploring cloud‑based data storage, authentication, and information retrieval (Moody App, MeGustaFirebase, etc.)
+<div align="center">
+  <img src="assets/achievements-matrix.gif" width="100%" alt="Achievements Matrix">
+</div>
 
 ## 📊 SYSTEM DIAGNOSTICS (Stats)
 <p align="center">
