@@ -100,7 +100,7 @@ Apps exploring cloud-based data storage, authentication, and information retriev
 Feel free to reach out if you want to collaborate, ask questions, or brainstorm ideas!
 
 📧 **Email:** marcosgaldamez14@icloud.com  
-🌐 **Website:** <a href=""marcosgaldamezcruz.com>marcosgaldamezcruz.com</a>  
+🌐 **Website:** <a href="marcosgaldamezcruz.com">marcosgaldamezcruz.com</a>  
 🔗 **LinkedIn:** https://www.linkedin.com/in/marcos-galdamez-89127b1ba/
 
 ---
