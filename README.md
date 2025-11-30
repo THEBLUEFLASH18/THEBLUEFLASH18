@@ -77,8 +77,8 @@ Apps exploring cloud-based data storage, authentication, and information retriev
 ## 💬 Connect With Me
 Feel free to reach out if you want to collaborate, ask questions, or brainstorm ideas!
 
-📧 **Email:** (add your email)  
-🔗 **LinkedIn:** (add your LinkedIn)  
+📧 **Email:** marcosgaldamez14@icloud.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/marcos-galdamez-89127b1ba/  
 
 ---
 
