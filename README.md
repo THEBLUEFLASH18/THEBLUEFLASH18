@@ -1,7 +1,8 @@
 <h1 align="center">👋 Hey Everyone, I'm Marcos Galdamez</h1>
 
 <div align="center">
-  
+  <h2>
+      
 🎓 **Information Science Student @ USF**  
 📚 Focused on: Information Behavior • Databases • Cybersecurity • Human–Computer Interaction  
 🛠️ Love building tools that organize information, improve learning, and solve real-world problems  
@@ -9,6 +10,7 @@
 🤝 Open to collaboration on educational tools, research projects, and Chrome extensions  
  ---  
 ## 📊 My GitHub Stats  
+  </h2>
 <div align="center">  
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=THEBLUEFLASH18&show_icons=true&hide_title=true&include_all_commits=true&count_private=true)  
