@@ -5,6 +5,7 @@
       
 🎓 Information Science Student @ USF
 <br>
+<br>
 📚 Focused on: Information Behavior • Databases • Cybersecurity • Human–Computer Interaction
 <br>
 🛠️ Love building tools that organize information, improve learning, and solve real-world problems  
