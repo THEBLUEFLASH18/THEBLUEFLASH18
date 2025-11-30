@@ -27,6 +27,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL">
 </p>
 
+### 🔹 **Chrome Extension – Productivity Tools**
+Lightweight tools to help organize online research and improve focus during browsing.
+
+### 🔹 **Brightview**
+A project focused on improving accessibility and user-centered design—built with principles from HCI and information architecture.
+
+### 🔹 **Enterprise Solutions (1 & 2)**
+Hands-on systems applying database logic, front‑end structures, and real information workflows.
+
+### 🔹 **Firebase Apps**
+Apps exploring cloud‑based data storage, authentication, and information retrieval (Moody App, MeGustaFirebase, etc.)
+
 <h2 align="center">📊 My GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=THEBLUEFLASH18&show_icons=true&theme=default" alt="GitHub Stats"><br>
