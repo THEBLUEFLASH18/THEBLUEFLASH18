@@ -3,12 +3,17 @@
 <div align="center">
   <h2>
       
-🎓 **Information Science Student @ USF**  
-📚 Focused on: Information Behavior • Databases • Cybersecurity • Human–Computer Interaction  
+🎓 Information Science Student @ USF
+<br>
+📚 Focused on: Information Behavior • Databases • Cybersecurity • Human–Computer Interaction
+<br>
 🛠️ Love building tools that organize information, improve learning, and solve real-world problems  
-🌱 Currently exploring: AI-powered study systems, digital libraries, and information ethics  
-🤝 Open to collaboration on educational tools, research projects, and Chrome extensions  
- ---  
+<br>
+🌱 Currently exploring: AI-powered study systems, digital libraries, and information ethics
+<br>
+🤝 Open to collaboration on educational tools, research projects, and Chrome extensions 
+<br>
+
 ## 📊 My GitHub Stats  
   </h2>
 <div align="center">  
