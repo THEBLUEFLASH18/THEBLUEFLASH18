@@ -16,24 +16,14 @@
 
 <div align="center">
   <a href="https://marcosgaldamezcruz.com">
-    <img src="assets/btn-portfolio.png" width="300" alt="Access Portfolio">
+    <img src="https://img.shields.io/badge/PORTFOLIO-0078ff?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
   </a>
-  <br>
-  <samp>> ACCESS FULL DOSSIER & PROJECTS</samp>
-  <br><br>
-
   <a href="mailto:marcosgaldamez14@icloud.com">
-    <img src="assets/btn-email.png" width="300" alt="Transmit Email">
+    <img src="https://img.shields.io/badge/EMAIL-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <br>
-  <samp>> INITIATE SECURE COMMUNICATION</samp>
-  <br><br>
-
   <a href="https://www.linkedin.com/in/marcosgaldamez">
-    <img src="assets/btn-linkedin.png" width="300" alt="Connect LinkedIn">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <br>
-  <samp>> ESTABLISH PROFESSIONAL UPLINK</samp>
 </div>
 
 ## 🧬 LOADED MODULES (Languages & Tools)
