@@ -49,7 +49,7 @@ Apps exploring cloud-based data storage, authentication, and information retriev
 
 ---
 
-## 🤠 What I Study & Apply
+## 🧠 What I Study & Apply
 
 ### 📌 **Information Science Focus Areas**
 - Information behavior & seeking patterns  
@@ -65,7 +65,8 @@ Apps exploring cloud-based data storage, authentication, and information retriev
 
 ---
 
-## 🤩 Current Research & Interests
+## 🧩 Current Research & Interests
+
 - How students interact with digital information  
 - AI assistants in learning environments  
 - Misinformation, credibility & trust online  
@@ -78,7 +79,8 @@ Apps exploring cloud-based data storage, authentication, and information retriev
 Feel free to reach out if you want to collaborate, ask questions, or brainstorm ideas!
 
 📧 **Email:** marcosgaldamez14@icloud.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/marcos-galdamez-89127b1ba/  
+🌐 **Website:** marcosgaldamezcruz.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/marcos-galdamez-89127b1ba/
 
 ---
 
