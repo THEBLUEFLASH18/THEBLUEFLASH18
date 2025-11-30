@@ -17,7 +17,7 @@
   <a href="https://www.linkedin.com/in/marcosgaldamez"><img src="https://img.shields.io/badge/LinkedIn-Marcos%20Galdamez-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 
-## 🪰 Languages & Tools
+<h2 align="center">🪰 Languages & Tools</h2>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript">
@@ -27,8 +27,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL">
 </p>
 
-## 📊 My GitHub Stats
+<h2 align="center">📊 My GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=THEBLUEFLASH18&show_icons=true&theme=default" alt="GitHub Stats"><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THEBLUEFLASH18&layout=compact" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THEBLUEFLASH18&layout=compact" alt="Top Languages"><br>
+  <img src="https://streak-stats.demolab.com?user=THEBLUEFLASH18&theme=default" alt="GitHub Streak">
 </p>
